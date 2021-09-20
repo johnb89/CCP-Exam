@@ -1,0 +1,81 @@
+<base>
+	<flight>
+		<start>TEB TETERBORO</start>
+		<destination>YYZ PEARSON INTERNATIONAL</destination>
+	</flight>
+	<equipment>
+		<rgb-ctrl>172.22.2.100</rgb-ctrl>
+	</equipment>
+	<configuration>
+		<pod>
+			<location>b1</location>
+			<macaddr>00 10 7F B1 7E 09</macaddr>
+		</pod>
+		<pod>
+			<macaddr>00:10:7f:b1:7e:1a</macaddr>
+			<location>B2</location>
+		</pod>
+		<pod>
+			<macaddr>00:10:7f:b2:66:1a</macaddr>
+			<location>a2</location>
+		</pod>
+		<pod>
+			<location>A1</location>
+			<macaddr>00107F16AE1B</macaddr>
+		</pod>
+		<pod>
+			<location>C4</location>
+			<macaddr>00.10.7F.B5.1D.77</macaddr>
+		</pod>
+	</configuration>
+	<media>
+		<mitem>
+			<title>Final Destination</title>
+			<genre>Horror</genre>
+			<url>https://www.rmp-streaming.com/media/big-buck-bunny-360p.mp4</url>
+			<length>1:38</length>
+			<year>2000</year>
+		</mitem>
+		<mitem>
+			<title>Con Air</title>
+			<length>1:55</length>
+			<year>1997</year>
+			<url>https://www.rmp-streaming.com/media/big-buck-bunny-360p.mp4</url>
+			<genre>Action</genre>
+		</mitem>
+		<mitem>
+			<title>Catch Me If You Can</title>
+			<length>2:21</length>
+			<year>2002</year>
+			<url>https://www.rmp-streaming.com/media/big-buck-bunny-360p.mp4</url>
+		</mitem>		
+		<mitem>
+			<title>Turbulence</title>
+			<url>https://www.rmp-streaming.com/media/big-buck-bunny-360p.mp4</url>
+		</mitem>	
+		<mitem>
+			<title>The Aviator</title>
+			<year>2004</year>
+			<genre>Biography</genre>
+			<url>https://www.rmp-streaming.com/media/big-buck-bunny-360p.mp4</url>
+		</mitem>	
+		<mitem>
+			<genre>Cartoon</genre>
+			<url>https://www.rmp-streaming.com/media/big-buck-bunny-360p.mp4</url>
+			<length>1:31</length>
+			<year>2013</year>
+			<title>Planes</title>
+		</mitem>	
+		<mitem>
+			<year>2016</year>
+			<title>Sully: Miracle on the Hudson</title>
+			<url>https://www.rmp-streaming.com/media/big-buck-bunny-360p.mp4</url>
+			<length>1:36</length>
+		</mitem>
+		<mitem>
+			<url>https://www.rmp-streaming.com/media/big-buck-bunny-360p.mp4</url>
+			<title>Top Gun</title>
+			<genre>Action</genre>
+		</mitem>		
+	</media>
+</base>	
